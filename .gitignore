@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+#folders
+config/
+
 # Expo
 .expo/
 dist/
